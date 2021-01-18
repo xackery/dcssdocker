@@ -1,0 +1,5 @@
+setup:
+  config:
+    S3_BUCKET: my-example-bucket
+run:
+  web: server
